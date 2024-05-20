@@ -1,5 +1,5 @@
 # Notify Customer
-Code is present in private Repository.
+Code present in private Repository.
 <br/>
 <br/>
 The "Notify Customer" feature is a comprehensive system designed to keep track of products and the customers who have expressed interest in them. This feature is particularly useful when a product is currently unavailable or not yet released. Customers can interact with the system by clicking a "Notify Me" button associated with the product they are interested in. Once this action is taken, the system records the customer's interest and keeps track of the product on their behalf. When the product becomes available or is officially released, the system automatically triggers a notification process. This process involves sending a message to the customers who had previously expressed interest, informing them that the product is now available. This automated feature ensures that customers are promptly informed about the availability of their desired products, enhancing the customer experience and potentially increasing sales.
